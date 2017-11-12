@@ -1,10 +1,10 @@
 {
-  "name": "node-express-mongoose",
-  "description": "A boilerplate application for express mongoose",
+  "name": "advanced_web_apps",
+  "description": "Overwatch app written with mean stack",
   "version": "1.0.0",
   "author": {
-    "name": "Madhusudhan Srinivasa",
-    "email": "me@madhums.me"
+    "name": "Overwatch pros",
+    "email": "overwatch@pros.com"
   },
   "engines": {
     "node": ">=6.x"
@@ -48,10 +48,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/madhums/node-express-mongoose.git"
+    "url": "git://github.com/DorWeid/advanced_web_apps.git"
   },
   "keywords": [
-    "mvc",
-    "boilerplate"
+    "overwatch"
   ]
 }
